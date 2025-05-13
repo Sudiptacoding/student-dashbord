@@ -75,7 +75,7 @@ export default function Login() {
           Login
         </button>
 
-        <button
+        {/* <button
           type="button"
           onClick={handleGoogleLogin}
           className="w-full bg-red-500 hover:bg-red-600 text-white py-3 rounded-lg font-semibold flex items-center justify-center gap-2 transition"
@@ -89,7 +89,7 @@ export default function Login() {
             <path d="M488 261.8C488 403.3 391.6 504 248 504 110.8 504 8 401.2 8 264S110.8 24 248 24c66.8 0 122.7 24.2 166.2 63.8l-67.4 64.2C318.4 119.6 286.4 104 248 104c-82.4 0-149.2 69.4-149.2 160S165.6 424 248 424c76.6 0 121-54.2 126.6-102.4H248v-82.8h240z" />
           </svg>
           Sign in with Google
-        </button>
+        </button> */}
       </form>
     </div>
   );
